@@ -52,6 +52,7 @@ _tmp/
 
 # visual studio code
 .vscode/
+/.devcontainer.json
 
 # ssl
 ssl/
